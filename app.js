@@ -1,3 +1,5 @@
+console.log("✅ app.js is loaded and DOM is ready!");
+
 document.addEventListener("DOMContentLoaded", function () {
     const backendUrl = "https://hotel-booking-system-r5u2.onrender.com";
 
